@@ -1,0 +1,74 @@
+[
+  {
+    "img": "https://praavahealth.com/wp-content/uploads/2020/12/shoab-150x150.jpg",
+    "name": "Dr. Shoaib Ahmad",
+    "category": "Cardiology",
+    "id": 1,
+    "deg": "MBBS, MPH, CCD(BIRDEM), CCCD(NHF)",
+    "experience": "12 Years of Experience",
+    "gender": "male"
+  },
+  {
+    "img": "https://praavahealth.com/wp-content/uploads/2020/12/drkabir-150x150.jpg",
+    "name": "Dr. Lt. Kabir Ahmed",
+    "category": "Neurology",
+    "id": 2,
+    "deg": "MBBS, CCD, FCGP, MCPS",
+    "experience": "11 Years of Experience",
+    "gender": "male"
+  },
+  {
+    "img": "https://praavahealth.com/wp-content/uploads/2020/12/5e77315226686-150x150.jpg",
+    "name": "Dr. Paramita Karim",
+    "category": "Dental",
+    "id": 3,
+    "deg": "MBChB (Dundee medical school), MRCP (UK)",
+    "experience": "9 Years of Experience",
+    "gender": "female"
+  },
+  {
+    "img": "https://praavahealth.com/wp-content/uploads/2020/12/drsalina-150x150.jpg",
+    "name": "Dr. Mosrose Selina",
+    "category": " Skin",
+    "id": 4,
+    "deg": "MBBS, DMU (BITMIR), DOC (Skin & Venereal)",
+    "experience": "5 Years of Experience",
+    "gender": "female"
+  },
+  {
+    "img": "https://praavahealth.com/wp-content/uploads/2020/12/taslima-150x150.jpg",
+    "name": "Dr. Taslima Akter",
+    "category": " Asthma",
+    "id": 5,
+    "deg": "MBBS, CCS (BIRDEM), Dip. in Asthma(icddrb)",
+    "experience": "12 Years of Experience",
+    "gender": "female"
+  },
+  {
+    "img": "https://praavahealth.com/wp-content/uploads/2020/12/Ashutosh-Saha-150x150.jpg",
+    "name": "Dr. Ashutosh Saha",
+    "category": " Medicine",
+    "id": 6,
+    "deg": "MBBS (Rajshahi University)",
+    "experience": "6 Years of Experience",
+    "gender": "male"
+  },
+  {
+    "img": "https://praavahealth.com/wp-content/uploads/2020/12/mariha-150x150.jpg",
+    "name": "Dr. Mariha Alam",
+    "category": " Medicine",
+    "id": 7,
+    "deg": "MBBS, FCPS (Obsygn), FiAOG (India)",
+    "experience": "8 Years of Experience",
+    "gender": "female"
+  },
+  {
+    "img": "https://praavahealth.com/wp-content/uploads/2020/12/Parveen-akhter-_GS-150x150.jpg",
+    "name": "Dr. Parveen Akter",
+    "category": " Child-Care",
+    "id": 8,
+    "deg": "MBBS (DMC), Diploma in Child Health (BICH)",
+    "experience": "30 Years of Experience",
+    "gender": "female"
+  }
+]
