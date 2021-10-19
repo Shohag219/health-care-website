@@ -1,6 +1,16 @@
+
+
+# LIve site link  [Programming Website link](https://simple-ema-jhon-81a43.web.app/).
+
+# Programming Website
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project make react js with [Create React App](https://skilify-education.netlify.app/home/).
+
+- you can brought any application what you want to learn
+- this is Programming learning platfrom
+- using this website you can btought any kind of course simple cost
 
 ## Available Scripts
 
@@ -68,3 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
