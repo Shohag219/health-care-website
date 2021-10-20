@@ -4,7 +4,7 @@ import { Button, Card, Col, Container, Row } from "react-bootstrap";
 const OurTests = () => {
   return (
     <Container>
-      <h2 className="my-4">We are Currently doing these test </h2>
+      <h2 className="my-5 text-center">We are Currently doing these test </h2>
       <Row xs={1} md={2} className="g-4">
         <Col>
           <Card>
