@@ -6,7 +6,8 @@
     "id": 1,
     "deg": "MBBS, MPH, CCD(BIRDEM), CCCD(NHF)",
     "experience": "12 Years of Experience",
-    "gender": "male"
+    "gender": "male",
+    "des": 12
   },
   {
     "img": "https://praavahealth.com/wp-content/uploads/2020/12/drkabir-150x150.jpg",
@@ -15,7 +16,8 @@
     "id": 2,
     "deg": "MBBS, CCD, FCGP, MCPS",
     "experience": "11 Years of Experience",
-    "gender": "male"
+    "gender": "male",
+    "des": 1
   },
   {
     "img": "https://praavahealth.com/wp-content/uploads/2020/12/5e77315226686-150x150.jpg",
@@ -24,7 +26,8 @@
     "id": 3,
     "deg": "MBChB (Dundee medical school), MRCP (UK)",
     "experience": "9 Years of Experience",
-    "gender": "female"
+    "gender": "female",
+    "des": 3
   },
   {
     "img": "https://praavahealth.com/wp-content/uploads/2020/12/drsalina-150x150.jpg",
@@ -33,7 +36,8 @@
     "id": 4,
     "deg": "MBBS, DMU (BITMIR), DOC (Skin & Venereal)",
     "experience": "5 Years of Experience",
-    "gender": "female"
+    "gender": "female",
+    "des": 2
   },
   {
     "img": "https://praavahealth.com/wp-content/uploads/2020/12/taslima-150x150.jpg",
@@ -42,7 +46,8 @@
     "id": 5,
     "deg": "MBBS, CCS (BIRDEM), Dip. in Asthma(icddrb)",
     "experience": "12 Years of Experience",
-    "gender": "female"
+    "gender": "female",
+    "des": 5
   },
   {
     "img": "https://praavahealth.com/wp-content/uploads/2020/12/Ashutosh-Saha-150x150.jpg",
@@ -51,7 +56,8 @@
     "id": 6,
     "deg": "MBBS (Rajshahi University)",
     "experience": "6 Years of Experience",
-    "gender": "male"
+    "gender": "male",
+    "des": 7
   },
   {
     "img": "https://praavahealth.com/wp-content/uploads/2020/12/mariha-150x150.jpg",
@@ -60,7 +66,8 @@
     "id": 7,
     "deg": "MBBS, FCPS (Obsygn), FiAOG (India)",
     "experience": "8 Years of Experience",
-    "gender": "female"
+    "gender": "female",
+    "des": 10
   },
   {
     "img": "https://praavahealth.com/wp-content/uploads/2020/12/Parveen-akhter-_GS-150x150.jpg",
@@ -69,6 +76,7 @@
     "id": 8,
     "deg": "MBBS (DMC), Diploma in Child Health (BICH)",
     "experience": "30 Years of Experience",
-    "gender": "female"
+    "gender": "female",
+    "des": 9
   }
 ]

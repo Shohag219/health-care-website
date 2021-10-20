@@ -19,7 +19,7 @@ const Doctor = ({ data }) => {
               Specialist in : <b>{data.category}</b>
             </p>
             <p>{data.deg}</p>
-            <p>{data.experience} Years of Experience</p>
+            <p>{data.experience}</p>
             <Link to={`/appointment/${data.name}`}>
               <button className="btn btn-danger mb-2 w-100">Appointment</button>
             </Link>

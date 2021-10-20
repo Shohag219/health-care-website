@@ -22,9 +22,9 @@ const DoctorsDetails = () => {
           <h6>{doctor[0]?.category}</h6>
           <small>{doctor[0]?.deg}</small>
           <p>
-            <b>{doctor[0]?.experience}</b> Years of experiences
+            <b>{doctor[0]?.experience}</b>
           </p>
-          <strong>Doctor's Word : {doctor[0]?.des}</strong>
+          <strong>Cabin : {doctor[0]?.des}</strong>
           <br />
           <Link to={`/appointment/${doctor[0]?.name}`}>
             <button className="btn btn-warning my-3">Get Appointment</button>
