@@ -6,11 +6,11 @@ const Banner = () => {
     <div className="banner-container">
       <div className="info container">
         <div>
-          <h1 className="text-warning display-4">
+          <h1 className="text-danger fa-bold display-4 mb-4">
             MediLab's Doctors <br />
             Are Always Waiting For You
           </h1>
-          <h4 className="text-white mb-3">Get Your Appointment Now !</h4>
+          <h4 className="text-black mb-3">Get Your Appointment Now !</h4>
           <Link to="/all-doctors">
             <button className="btn btn-danger">Our Doctors</button>
           </Link>
