@@ -7,7 +7,7 @@ const About = () => {
     <Row xs={1} md={2} className="bg">
       <div className="p-4">
         <p> </p>
-        <h1 className="text-center">About us</h1>
+        <h1 className="text-center p-5">About us</h1>
         <p>
           We are a Diagonestic Lab Called MediLab, Providing you Health related
           services .Our vision is to help to get best services in less expanse.
@@ -20,7 +20,7 @@ const About = () => {
       </div>
       <div>
         <img
-          className="img-fluid"
+          className="img-fluid p-5"
           src="https://i.ibb.co/F4G3CQB/3647440.jpg"
           alt=""
         />

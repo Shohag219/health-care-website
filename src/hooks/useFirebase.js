@@ -24,7 +24,7 @@ const useFirebase = () => {
 
   const auth = getAuth();
   const googleProvider = new GoogleAuthProvider();
-  const githubPrivider = new GithubAuthProvider();
+  const githubProvider = new GithubAuthProvider();
 
   const redirect_url = location.state?.from || "/";
 
@@ -75,7 +75,7 @@ const useFirebase = () => {
   };
 
   const githubSignIn = () => {
-    signInWithPopup(auth, githubPrivider)
+    signInWithPopup(auth, githubProvider)
       .then((result) => {
         setUser(result.user);
         history.push(redirect_url);
